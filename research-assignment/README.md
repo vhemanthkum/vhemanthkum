@@ -11,7 +11,6 @@
 | **Part A – Company CSV (24 qualifying + 8 disqualified shown)** | ✅ DONE | `Part-A/companies-final-25.csv` |
 | **Part A – Research Methodology** | ✅ DONE | `Part-A/methodology.md` |
 | **Part B – 1000 Company Scale-Up Proposal** | ✅ DONE | `Part-B/scale-up-proposal.md` |
-| **Hand-Drawn Sketch (MANDATORY)** | ⚠️ TODO – Must be done by hand | Physical paper — scan/photo to submit |
 
 ## Note on Company Count: Honest Yield
 
